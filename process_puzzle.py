@@ -1,8 +1,3 @@
-"""
-    CS5001: Fall 2022
-    Puzzle Class
-    Dominic Cauteruccio    
-"""
 
 import random, time
 
