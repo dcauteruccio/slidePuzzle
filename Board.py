@@ -1,8 +1,3 @@
-"""
-    CS5001: Fall 2022
-    Board Class
-    Dominic Cauteruccio
-"""
 
 import turtle, math, time, logging
 from Tile import Tile
