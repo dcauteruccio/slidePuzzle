@@ -1,8 +1,3 @@
-"""
-    CS5001: Fall 2022
-    Tile Class
-    Dominic Cauteruccio
-"""
 
 import turtle
 from gameboard import draw_rectangle
