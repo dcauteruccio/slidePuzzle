@@ -1,8 +1,4 @@
-"""
-    CS5001: Fall 2022
-    Button Functionality
-    Dominic Cauteruccio
-"""
+
 import turtle
 from Tile import Tile
 from process_puzzle import process_file
