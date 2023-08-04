@@ -1,8 +1,3 @@
-'''
-    CS5001: Fall 2022
-    Final Project: Slide Puzzle
-    Dominic Cauteruccio
-'''
 
 import turtle, math
 import process_puzzle, gameboard, time
