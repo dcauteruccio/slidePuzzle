@@ -1,8 +1,3 @@
-"""
-    CS5001: Fall 2022
-    Final Project: Gameboard Setup '5001_puzzle.err'
-    Dominic Cauteruccio
-"""
 
 import turtle, time, logging
 
